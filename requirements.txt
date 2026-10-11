@@ -1,0 +1,6 @@
+numpy
+pypdf
+sentence-transformers
+google-genai
+anthropic
+python-dotenv

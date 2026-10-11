@@ -1,0 +1,16 @@
+
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# RAG / model caches
+.rag_cache/
+
+# Virtual environments
+venv/
+.venv/
